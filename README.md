@@ -1,16 +1,17 @@
-## Hi there 👋
+ó## oiii meu nome é Sâmili Morando e sou estudante no IFC👋
 
 <!--
-**samili-morando/samili-morando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samili-morando/samili-morando** is a ✨ Esse é o meu perfil e por ele vocês conseguiram conhecer os meus projetos e um pouco da minha personalidade ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Um poucosobre a minha pessoa:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🖥 curso TI 
+- 🔬✨️ sonho em fazer biologia 
+- 📚 amo ler 
+- 🎨 me considero artista
+- 👻 sou bem extrovertida
+- 😁 adoro conversar 
+- 🦋 sou bem criativa
+- 😉 dedicada e animada 
+- 💐 amo flores e insetos 
 -->
